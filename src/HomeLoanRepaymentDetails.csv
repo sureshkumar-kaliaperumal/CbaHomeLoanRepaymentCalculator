@@ -1,0 +1,6 @@
+Amount,Term,Repayment_Type,Percentage_Interest,Total_Loan_Repayment,Total_Interest_Charged
+300000,30,Principal and interest,2.69% p.a. Extra Home Loan 30% deposit,"$437,476","$137,476"
+500000,25,Interest only 2 years,3.39% p.a. 1 Year Fixed Rate Home Loan,"$793,029","$293,029"
+600000,28,Principal and interest,3.15% p.a. Extra Investment Home Loan 20% deposit,"$903,740","$303,740"
+100000,15,Interest only 1 year,3.69% p.a. Extra Home Loan 10% deposit,"$127,324","$27,324"
+10000,5,Interest only 3 years,3.04% p.a. 3 Year Fixed Rate Investment Home Loan,"$11,380","$1,380"
